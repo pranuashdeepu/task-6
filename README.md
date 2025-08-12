@@ -5,18 +5,18 @@ The task was to deploy a simple static HTML website using **GitHub Pages**.
 
 ---
 
-## 📌 Live Site
-[Click here to view my website](https://your-username.github.io/task6-static-site/)
+## Live Site
+https://pranuashdeepu.github.io/task-6/
 
 ---
 
-## 📂 Files in this Repository
+## Files in this Repository
 - **index.html** → Main webpage
 - **style.css** → Styling for the webpage
 
 ---
 
-## 🛠 Steps I Followed
+## Steps I Followed
 1. Created an `index.html` file with basic HTML structure.
 2. Created a `style.css` file for styling the website.
 3. Created a new **GitHub repository** and pushed the files.
@@ -26,7 +26,7 @@ The task was to deploy a simple static HTML website using **GitHub Pages**.
 
 ---
 
-## 🎯 Features of the Website
+## Features of the Website
 - Clean and minimal design
 - Responsive layout
 - Button with hover effect
@@ -34,17 +34,8 @@ The task was to deploy a simple static HTML website using **GitHub Pages**.
 
 ---
 
-## 💡 Technologies Used
+## Technologies Used
 - HTML5
 - CSS3
-- Git & GitHub Pages
 
 ---
-
-## 📸 Screenshot
-![Website Screenshot](screenshot.png)
-
----
-
-## 📜 License
-This project is open source and free to use.
